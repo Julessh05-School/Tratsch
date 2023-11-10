@@ -1,0 +1,18 @@
+{
+    "benutzerliste": {
+        "benutzer": [
+            {
+                "benutzername": "User1",
+                "password": "Pass1"
+            },
+            {
+                "benutzername": "User2",
+                "password": "Pass2"
+            },
+            {
+                "benutzername": "User3",
+                "password": "Pass3"
+            }
+        ]
+    }
+}
